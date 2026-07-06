@@ -1,0 +1,553 @@
+{
+  "stage": "R32",
+  "matches": [
+    {
+      "match_id": "M73",
+      "team_a": "RSA",
+      "team_b": "CAN",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.984,
+        "random_forest": 0.608,
+        "xgboost": 0.965
+      },
+      "advance_probability_avg_a": 0.852,
+      "penalty_scenario_probability": 0.981,
+      "predicted_winner": "RSA",
+      "actual_result": {
+        "score_90": {
+          "a": 0,
+          "b": 1
+        },
+        "went_to_penalties": false,
+        "winner": "CAN"
+      },
+      "hit": false
+    },
+    {
+      "match_id": "M74",
+      "team_a": "GER",
+      "team_b": "PAR",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.999,
+        "random_forest": 0.938,
+        "xgboost": 0.996
+      },
+      "advance_probability_avg_a": 0.978,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "GER",
+      "actual_result": {
+        "score_90": {
+          "a": 1,
+          "b": 1
+        },
+        "went_to_penalties": true,
+        "winner": "PAR"
+      },
+      "hit": false
+    },
+    {
+      "match_id": "M75",
+      "team_a": "NED",
+      "team_b": "MAR",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.835,
+        "random_forest": 0.897,
+        "xgboost": 0.992
+      },
+      "advance_probability_avg_a": 0.908,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "NED",
+      "actual_result": {
+        "score_90": {
+          "a": 1,
+          "b": 1
+        },
+        "went_to_penalties": true,
+        "winner": "MAR"
+      },
+      "hit": false
+    },
+    {
+      "match_id": "M76",
+      "team_a": "BRA",
+      "team_b": "JPN",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.973,
+        "random_forest": 0.924,
+        "xgboost": 0.979
+      },
+      "advance_probability_avg_a": 0.959,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "BRA",
+      "actual_result": {
+        "score_90": {
+          "a": 2,
+          "b": 1
+        },
+        "went_to_penalties": false,
+        "winner": "BRA"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M77",
+      "team_a": "FRA",
+      "team_b": "SWE",
+      "predicted_score_90": {
+        "a": 3,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.996,
+        "random_forest": 0.916,
+        "xgboost": 0.995
+      },
+      "advance_probability_avg_a": 0.969,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "FRA",
+      "actual_result": {
+        "score_90": {
+          "a": 3,
+          "b": 0
+        },
+        "went_to_penalties": false,
+        "winner": "FRA"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M78",
+      "team_a": "CIV",
+      "team_b": "NOR",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.674,
+        "random_forest": 0.568,
+        "xgboost": 0.978
+      },
+      "advance_probability_avg_a": 0.74,
+      "penalty_scenario_probability": 0.692,
+      "predicted_winner": "CIV",
+      "actual_result": {
+        "score_90": {
+          "a": 1,
+          "b": 2
+        },
+        "went_to_penalties": false,
+        "winner": "NOR"
+      },
+      "hit": false
+    },
+    {
+      "match_id": "M79",
+      "team_a": "MEX",
+      "team_b": "ECU",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.07,
+        "random_forest": 0.624,
+        "xgboost": 0.793
+      },
+      "advance_probability_avg_a": 0.496,
+      "penalty_scenario_probability": 0.413,
+      "predicted_winner": "ECU",
+      "actual_result": {
+        "score_90": {
+          "a": 2,
+          "b": 0
+        },
+        "went_to_penalties": false,
+        "winner": "MEX"
+      },
+      "hit": false
+    },
+    {
+      "match_id": "M80",
+      "team_a": "ENG",
+      "team_b": "COD",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.994,
+        "random_forest": 0.915,
+        "xgboost": 0.973
+      },
+      "advance_probability_avg_a": 0.96,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "ENG",
+      "actual_result": {
+        "score_90": {
+          "a": 2,
+          "b": 1
+        },
+        "went_to_penalties": false,
+        "winner": "ENG"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M81",
+      "team_a": "USA",
+      "team_b": "BIH",
+      "predicted_score_90": {
+        "a": 3,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.369,
+        "random_forest": 0.865,
+        "xgboost": 0.973
+      },
+      "advance_probability_avg_a": 0.736,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "USA",
+      "actual_result": {
+        "score_90": {
+          "a": 2,
+          "b": 0
+        },
+        "went_to_penalties": false,
+        "winner": "USA"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M82",
+      "team_a": "BEL",
+      "team_b": "SEN",
+      "predicted_score_90": {
+        "a": 3,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.986,
+        "random_forest": 0.951,
+        "xgboost": 0.972
+      },
+      "advance_probability_avg_a": 0.97,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "BEL",
+      "actual_result": {
+        "score_90": {
+          "a": 2,
+          "b": 2
+        },
+        "went_to_penalties": false,
+        "winner": "BEL"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M83",
+      "team_a": "POR",
+      "team_b": "CRO",
+      "predicted_score_90": {
+        "a": 4,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.314,
+        "random_forest": 0.761,
+        "xgboost": 0.34
+      },
+      "advance_probability_avg_a": 0.472,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "CRO",
+      "actual_result": {
+        "score_90": {
+          "a": 2,
+          "b": 1
+        },
+        "went_to_penalties": false,
+        "winner": "POR"
+      },
+      "hit": false
+    },
+    {
+      "match_id": "M84",
+      "team_a": "ESP",
+      "team_b": "AUT",
+      "predicted_score_90": {
+        "a": 3,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.03,
+        "random_forest": 0.761,
+        "xgboost": 0.866
+      },
+      "advance_probability_avg_a": 0.552,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "ESP",
+      "actual_result": {
+        "score_90": {
+          "a": 3,
+          "b": 0
+        },
+        "went_to_penalties": false,
+        "winner": "ESP"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M85",
+      "team_a": "SUI",
+      "team_b": "ALG",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.851,
+        "random_forest": 0.803,
+        "xgboost": 0.98
+      },
+      "advance_probability_avg_a": 0.878,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "SUI",
+      "actual_result": {
+        "score_90": {
+          "a": 2,
+          "b": 0
+        },
+        "went_to_penalties": false,
+        "winner": "SUI"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M86",
+      "team_a": "ARG",
+      "team_b": "CPV",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.996,
+        "random_forest": 0.94,
+        "xgboost": 0.995
+      },
+      "advance_probability_avg_a": 0.977,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "ARG",
+      "actual_result": {
+        "score_90": {
+          "a": 1,
+          "b": 1
+        },
+        "went_to_penalties": false,
+        "winner": "ARG"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M87",
+      "team_a": "COL",
+      "team_b": "GHA",
+      "predicted_score_90": {
+        "a": 3,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.802,
+        "random_forest": 0.782,
+        "xgboost": 0.972
+      },
+      "advance_probability_avg_a": 0.852,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "COL",
+      "actual_result": {
+        "score_90": {
+          "a": 1,
+          "b": 0
+        },
+        "went_to_penalties": false,
+        "winner": "COL"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M88",
+      "team_a": "AUS",
+      "team_b": "EGY",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.043,
+        "random_forest": 0.552,
+        "xgboost": 0.93
+      },
+      "advance_probability_avg_a": 0.508,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "AUS",
+      "actual_result": {
+        "score_90": {
+          "a": 1,
+          "b": 1
+        },
+        "went_to_penalties": true,
+        "winner": "EGY"
+      },
+      "hit": false
+    }
+  ],
+  "n_matches_total": 16,
+  "n_matches_validated": 16,
+  "validation_summary": {
+    "logreg": {
+      "accuracy": 0.5,
+      "precision": 0.636,
+      "recall": 0.636,
+      "f1": 0.636
+    },
+    "random_forest": {
+      "accuracy": 0.688,
+      "precision": 0.688,
+      "recall": 1.0,
+      "f1": 0.815
+    },
+    "xgboost": {
+      "accuracy": 0.625,
+      "precision": 0.667,
+      "recall": 0.909,
+      "f1": 0.769
+    },
+    "score_model": {
+      "MAE": 0.594,
+      "RMSE": 0.848
+    }
+  },
+  "top_features": {
+    "logreg": [
+      [
+        "ko_stage_historical_win_rate_b",
+        -1.6007
+      ],
+      [
+        "ko_stage_historical_win_rate_a",
+        0.8772
+      ],
+      [
+        "goals_against_group_diff",
+        0.8591
+      ],
+      [
+        "wc_best_stage_diff",
+        0.5388
+      ],
+      [
+        "key_players_avg_age_diff",
+        0.5328
+      ],
+      [
+        "stage_ordinal",
+        0.4679
+      ],
+      [
+        "group_position_b",
+        0.4489
+      ],
+      [
+        "key_players_prev_wc_goals_diff",
+        0.4485
+      ]
+    ],
+    "random_forest": [
+      [
+        "key_players_prev_wc_goals_diff",
+        0.1524
+      ],
+      [
+        "ko_stage_historical_win_rate_b",
+        0.1215
+      ],
+      [
+        "fifa_ranking_pos_diff",
+        0.1187
+      ],
+      [
+        "fifa_ranking_pts_diff",
+        0.0999
+      ],
+      [
+        "ko_stage_historical_win_rate_a",
+        0.0585
+      ],
+      [
+        "key_players_avg_age_diff",
+        0.0564
+      ],
+      [
+        "wc_best_stage_diff",
+        0.0555
+      ],
+      [
+        "stage_ordinal",
+        0.0508
+      ]
+    ],
+    "xgboost": [
+      [
+        "key_players_prev_wc_goals_diff",
+        0.1948
+      ],
+      [
+        "ko_stage_historical_win_rate_b",
+        0.1727
+      ],
+      [
+        "top_scorer_individual_rating_diff",
+        0.1041
+      ],
+      [
+        "ko_stage_historical_win_rate_a",
+        0.1016
+      ],
+      [
+        "goals_against_group_diff",
+        0.0773
+      ],
+      [
+        "goals_for_group_diff",
+        0.0608
+      ],
+      [
+        "fifa_ranking_pos_diff",
+        0.0567
+      ],
+      [
+        "wc_titles_diff",
+        0.0477
+      ]
+    ]
+  },
+  "train_set_size": 36,
+  "uses_xgboost_native": true
+}

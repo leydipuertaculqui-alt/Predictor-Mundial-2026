@@ -1,0 +1,33 @@
+team_id,team_name,fifa_ranking_pts,fifa_ranking_pos,wc_appearances,wc_best_stage,wc_titles,confederation,group_id,group_position,group_pts,group_gf,group_ga
+ARG,Argentina,1885,1,18,6,3,CONMEBOL,J,1,9,8,-2
+ESP,Spain,1854,2,15,6,1,UEFA,H,1,7,5,-2
+FRA,France,1832,3,16,6,2,UEFA,I,1,9,10,-2
+ENG,England,1810,4,16,5,1,UEFA,L,1,7,6,-2
+POR,Portugal,1795,5,8,4,0,UEFA,K,2,5,6,-1
+BRA,Brazil,1788,6,22,6,5,CONMEBOL,C,1,7,7,-1
+GER,Germany,1740,7,20,6,4,UEFA,E,1,6,10,-4
+NED,Netherlands,1720,8,11,2,0,UEFA,F,1,7,10,-3
+BEL,Belgium,1705,9,14,4,0,UEFA,G,1,5,6,-1
+COL,Colombia,1650,13,7,2,0,CONMEBOL,K,1,7,4,-1
+USA,United States,1615,15,12,3,0,CONCACAF,D,1,6,8,-4
+MEX,Mexico,1590,17,18,2,0,CONCACAF,A,1,9,6,0
+SUI,Switzerland,1560,19,12,2,0,UEFA,B,1,7,7,-3
+MAR,Morocco,1545,20,7,2,0,CAF,C,2,7,6,-3
+CRO,Croatia,1530,22,7,3,0,UEFA,L,2,6,5,-2
+JPN,Japan,1500,23,8,2,0,AFC,F,2,5,7,-1
+SEN,Senegal,1470,26,3,2,0,CAF,I,3,3,8,-2
+EGY,Egypt,1455,28,3,1,0,CAF,G,2,5,5,-2
+NOR,Norway,1440,29,2,1,0,UEFA,I,2,6,8,-1
+CIV,Ivory Coast,1420,32,4,2,0,CAF,E,2,6,4,-2
+ECU,Ecuador,1400,33,5,2,0,CONMEBOL,E,3,4,2,0
+AUS,Australia,1370,38,6,2,0,AFC,D,2,4,2,0
+AUT,Austria,1360,39,3,2,0,UEFA,J,2,4,6,-4
+ALG,Algeria,1345,41,4,2,0,CAF,J,3,4,5,-1
+PAR,Paraguay,1330,43,9,2,0,CONMEBOL,D,3,4,2,-2
+BIH,Bosnia and Herzegovina,1310,46,1,1,0,UEFA,B,3,4,5,-1
+CPV,Cape Verde,1290,48,1,1,0,CAF,H,2,3,2,0
+GHA,Ghana,1270,50,4,2,0,CAF,L,3,4,2,0
+COD,DR Congo,1250,52,0,0,0,CAF,K,3,4,4,1
+SWE,Sweden,1230,55,12,3,0,UEFA,F,3,4,7,0
+RSA,South Africa,1150,62,4,2,0,CAF,A,2,4,2,-1
+CAN,Canada,1120,66,3,1,0,CONCACAF,B,2,4,8,5

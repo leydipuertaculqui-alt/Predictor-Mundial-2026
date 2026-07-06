@@ -1,0 +1,292 @@
+{
+  "stage": "R16",
+  "matches": [
+    {
+      "match_id": "M89",
+      "team_a": "PAR",
+      "team_b": "FRA",
+      "predicted_score_90": {
+        "a": 0,
+        "b": 2
+      },
+      "advance_probability": {
+        "logreg": 0.018,
+        "random_forest": 0.205,
+        "xgboost": 0.047
+      },
+      "advance_probability_avg_a": 0.09,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "FRA",
+      "actual_result": {
+        "score_90": {
+          "a": 0,
+          "b": 1
+        },
+        "went_to_penalties": false,
+        "winner": "FRA"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M90",
+      "team_a": "CAN",
+      "team_b": "MAR",
+      "predicted_score_90": {
+        "a": 0,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.017,
+        "random_forest": 0.502,
+        "xgboost": 0.899
+      },
+      "advance_probability_avg_a": 0.473,
+      "penalty_scenario_probability": 0.033,
+      "predicted_winner": "MAR",
+      "actual_result": {
+        "score_90": {
+          "a": 0,
+          "b": 3
+        },
+        "went_to_penalties": false,
+        "winner": "MAR"
+      },
+      "hit": true
+    },
+    {
+      "match_id": "M91",
+      "team_a": "BRA",
+      "team_b": "NOR",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.806,
+        "random_forest": 0.836,
+        "xgboost": 0.973
+      },
+      "advance_probability_avg_a": 0.872,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "BRA"
+    },
+    {
+      "match_id": "M92",
+      "team_a": "MEX",
+      "team_b": "ENG",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 2
+      },
+      "advance_probability": {
+        "logreg": 0.002,
+        "random_forest": 0.309,
+        "xgboost": 0.371
+      },
+      "advance_probability_avg_a": 0.227,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "ENG"
+    },
+    {
+      "match_id": "M93",
+      "team_a": "POR",
+      "team_b": "ESP",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.949,
+        "random_forest": 0.589,
+        "xgboost": 0.81
+      },
+      "advance_probability_avg_a": 0.783,
+      "penalty_scenario_probability": 0.822,
+      "predicted_winner": "POR"
+    },
+    {
+      "match_id": "M94",
+      "team_a": "USA",
+      "team_b": "BEL",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.023,
+        "random_forest": 0.306,
+        "xgboost": 0.436
+      },
+      "advance_probability_avg_a": 0.255,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "BEL"
+    },
+    {
+      "match_id": "M95",
+      "team_a": "ARG",
+      "team_b": "EGY",
+      "predicted_score_90": {
+        "a": 2,
+        "b": 0
+      },
+      "advance_probability": {
+        "logreg": 0.988,
+        "random_forest": 0.947,
+        "xgboost": 0.995
+      },
+      "advance_probability_avg_a": 0.977,
+      "penalty_scenario_probability": null,
+      "predicted_winner": "ARG"
+    },
+    {
+      "match_id": "M96",
+      "team_a": "SUI",
+      "team_b": "COL",
+      "predicted_score_90": {
+        "a": 1,
+        "b": 1
+      },
+      "advance_probability": {
+        "logreg": 0.495,
+        "random_forest": 0.66,
+        "xgboost": 0.989
+      },
+      "advance_probability_avg_a": 0.714,
+      "penalty_scenario_probability": 0.704,
+      "predicted_winner": "SUI"
+    }
+  ],
+  "n_matches_total": 8,
+  "n_matches_validated": 2,
+  "validation_summary": {
+    "logreg": {
+      "accuracy": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "random_forest": {
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "xgboost": {
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "score_model": {
+      "MAE": 1.0,
+      "RMSE": 1.581
+    },
+    "_note": "Validado solo con 2/8 partidos ya jugados."
+  },
+  "top_features": {
+    "logreg": [
+      [
+        "ko_stage_historical_win_rate_b",
+        -1.6007
+      ],
+      [
+        "ko_stage_historical_win_rate_a",
+        0.8772
+      ],
+      [
+        "goals_against_group_diff",
+        0.8591
+      ],
+      [
+        "wc_best_stage_diff",
+        0.5388
+      ],
+      [
+        "key_players_avg_age_diff",
+        0.5328
+      ],
+      [
+        "stage_ordinal",
+        0.4679
+      ],
+      [
+        "group_position_b",
+        0.4489
+      ],
+      [
+        "key_players_prev_wc_goals_diff",
+        0.4485
+      ]
+    ],
+    "random_forest": [
+      [
+        "key_players_prev_wc_goals_diff",
+        0.1524
+      ],
+      [
+        "ko_stage_historical_win_rate_b",
+        0.1215
+      ],
+      [
+        "fifa_ranking_pos_diff",
+        0.1187
+      ],
+      [
+        "fifa_ranking_pts_diff",
+        0.0999
+      ],
+      [
+        "ko_stage_historical_win_rate_a",
+        0.0585
+      ],
+      [
+        "key_players_avg_age_diff",
+        0.0564
+      ],
+      [
+        "wc_best_stage_diff",
+        0.0555
+      ],
+      [
+        "stage_ordinal",
+        0.0508
+      ]
+    ],
+    "xgboost": [
+      [
+        "key_players_prev_wc_goals_diff",
+        0.1948
+      ],
+      [
+        "ko_stage_historical_win_rate_b",
+        0.1727
+      ],
+      [
+        "top_scorer_individual_rating_diff",
+        0.1041
+      ],
+      [
+        "ko_stage_historical_win_rate_a",
+        0.1016
+      ],
+      [
+        "goals_against_group_diff",
+        0.0773
+      ],
+      [
+        "goals_for_group_diff",
+        0.0608
+      ],
+      [
+        "fifa_ranking_pos_diff",
+        0.0567
+      ],
+      [
+        "wc_titles_diff",
+        0.0477
+      ]
+    ]
+  },
+  "train_set_size": 36,
+  "uses_xgboost_native": true
+}

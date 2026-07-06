@@ -1,0 +1,13 @@
+team_a,team_b,matches_played,wins_a,wins_b,draws,context
+RSA,CAN,1,0,1,0,"2007 friendly, Canada won 2-0 (not a WC match, informational only)"
+BEL,USA,1,1,0,0,"2014 WC Round of 16, Belgium won 2-1 (AET)"
+ESP,POR,1,0,0,1,"2018 WC group stage, 3-3 draw"
+SUI,COL,1,1,0,0,"2018 WC group stage, Switzerland won 2-1"
+ARG,CPV,0,0,0,0,"No previous meeting (confirmed pre-match)"
+CAN,MAR,0,0,0,0,"No previous meeting"
+FRA,PAR,0,0,0,0,"No previous meeting known"
+BRA,NOR,0,0,0,0,"No previous meeting known"
+MEX,ENG,0,0,0,0,"No confirmed competitive WC meeting in available data"
+POR,ESP,1,0,0,1,"See ESP,POR row (mirrored)"
+ARG,EGY,0,0,0,0,"No previous meeting known"
+SUI,COL,1,1,0,0,"duplicate of above, kept for symmetry lookups"

@@ -1,0 +1,38 @@
+team_id,player_name,age,club,minutes_played_tournament,goals_tournament,assists_tournament,goals_prev_wc,is_key_player,team_dependency_index,individual_rating_avg,injury_status,suspension_next_match
+ARG,Lionel Messi,38,Inter Miami,270,7,1,13,True,0.55,8.6,healthy,False
+FRA,Kylian Mbappe,27,Real Madrid,360,7,2,12,True,0.45,8.7,healthy,False
+NOR,Erling Haaland,25,Manchester City,270,5,1,0,True,0.5,8.4,healthy,False
+POR,Cristiano Ronaldo,41,Al Nassr,270,1,0,8,True,0.2,7.1,healthy,False
+BEL,Romelu Lukaku,32,Napoli,300,2,1,4,True,0.35,7.5,healthy,False
+ENG,Harry Kane,32,Bayern Munich,270,3,1,6,True,0.4,7.8,healthy,False
+BRA,Vinicius Junior,25,Real Madrid,270,2,2,1,True,0.3,7.9,healthy,False
+BRA,Gabriel Martinelli,24,Arsenal,180,1,0,0,False,0.15,7.2,healthy,False
+ESP,Lamine Yamal,18,Barcelona,270,3,3,0,True,0.35,8.3,healthy,False
+MAR,Azzedine Ounahi,25,Girona,270,2,1,0,True,0.3,7.6,healthy,False
+MAR,Achraf Hakimi,27,Paris Saint-Germain,270,0,3,0,True,0.25,7.7,healthy,False
+GER,Kai Havertz,26,Arsenal,270,1,1,1,True,0.2,7.0,healthy,False
+NED,Cody Gakpo,26,Liverpool,270,2,1,3,True,0.25,7.3,healthy,False
+ARG,Julian Alvarez,26,Atletico Madrid,270,2,2,4,True,0.2,7.6,healthy,False
+COL,Luis Diaz,29,Bayern Munich,270,2,2,0,True,0.35,7.8,healthy,False
+COL,Jhon Arias,28,Fluminense,270,1,1,0,False,0.15,7.2,healthy,False
+USA,Christian Pulisic,27,AC Milan,180,0,1,1,True,0.3,7.0,minor_injury,False
+USA,Folarin Balogun,24,AS Monaco,180,1,0,0,True,0.25,6.9,suspended,True
+SUI,Granit Xhaka,32,Bayer Leverkusen,270,0,2,0,True,0.2,7.1,healthy,False
+CRO,Luka Modric,40,Real Madrid,270,0,1,3,True,0.15,7.3,healthy,False
+JPN,Kaishu Sano,24,Kashiwa Reysol,270,1,0,0,True,0.2,7.0,healthy,False
+SEN,Ismaila Sarr,28,Marseille,270,2,0,0,True,0.3,7.4,healthy,False
+EGY,Mohamed Salah,33,Liverpool,270,1,1,0,True,0.4,7.6,healthy,False
+CIV,Franck Kessie,29,Al Ahli,270,1,0,0,False,0.2,7.0,healthy,False
+ECU,Enner Valencia,36,Inter Miami,270,1,0,3,True,0.3,7.1,healthy,False
+AUS,Mathew Leckie,34,retired-callup,180,0,0,0,False,0.15,6.5,healthy,False
+AUT,Marcel Sabitzer,31,Borussia Dortmund,270,1,1,0,True,0.25,7.0,healthy,False
+ALG,Riyad Mahrez,34,Al Ahli,270,1,1,0,True,0.3,7.2,healthy,False
+PAR,Julio Enciso,22,Ipswich Town,270,1,0,0,True,0.3,7.3,healthy,False
+BIH,Edin Dzeko,39,Fenerbahce,180,0,0,0,True,0.25,6.8,healthy,False
+CPV,Ryan Mendes,35,Al-Wehda,270,0,1,0,True,0.2,7.0,healthy,False
+GHA,Mohammed Kudus,25,West Ham,270,0,1,0,True,0.25,7.1,healthy,False
+COD,Chancel Mbemba,31,Marseille,270,0,0,0,False,0.15,6.9,healthy,False
+SWE,Alexander Isak,26,Liverpool,270,1,0,0,True,0.3,7.2,healthy,False
+RSA,Percy Tau,31,Al-Ahly,270,0,0,0,False,0.15,6.8,healthy,False
+CAN,Alphonso Davies,25,Bayern Munich,90,0,0,0,True,0.3,6.7,returning_from_injury,False
+CAN,Jonathan David,25,Juventus,270,1,0,0,True,0.3,7.0,healthy,False
