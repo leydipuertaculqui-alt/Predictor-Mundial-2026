@@ -1,0 +1,9 @@
+match_id,stage,team_a,team_b,date,venue
+M89,R16,PAR,FRA,2026-07-04,"Lincoln Financial Field, Philadelphia"
+M90,R16,CAN,MAR,2026-07-04,"NRG Stadium, Houston"
+M91,R16,BRA,NOR,2026-07-05,"MetLife Stadium, East Rutherford"
+M92,R16,MEX,ENG,2026-07-05,"Estadio Azteca, Mexico City"
+M93,R16,POR,ESP,2026-07-06,"AT&T Stadium, Arlington"
+M94,R16,USA,BEL,2026-07-06,"Lumen Field, Seattle"
+M95,R16,ARG,EGY,2026-07-07,"Mercedes-Benz Stadium, Atlanta"
+M96,R16,SUI,COL,2026-07-07,"BC Place, Vancouver"

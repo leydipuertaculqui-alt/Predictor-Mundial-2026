@@ -12,9 +12,9 @@
       "advance_probability": {
         "logreg": 0.984,
         "random_forest": 0.608,
-        "xgboost": 0.965
+        "xgboost": 0.876
       },
-      "advance_probability_avg_a": 0.852,
+      "advance_probability_avg_a": 0.806,
       "penalty_scenario_probability": 0.981,
       "predicted_winner": "RSA",
       "actual_result": {
@@ -38,9 +38,9 @@
       "advance_probability": {
         "logreg": 0.999,
         "random_forest": 0.938,
-        "xgboost": 0.996
+        "xgboost": 0.963
       },
-      "advance_probability_avg_a": 0.978,
+      "advance_probability_avg_a": 0.963,
       "penalty_scenario_probability": null,
       "predicted_winner": "GER",
       "actual_result": {
@@ -64,9 +64,9 @@
       "advance_probability": {
         "logreg": 0.835,
         "random_forest": 0.897,
-        "xgboost": 0.992
+        "xgboost": 0.955
       },
-      "advance_probability_avg_a": 0.908,
+      "advance_probability_avg_a": 0.902,
       "penalty_scenario_probability": null,
       "predicted_winner": "NED",
       "actual_result": {
@@ -90,9 +90,9 @@
       "advance_probability": {
         "logreg": 0.973,
         "random_forest": 0.924,
-        "xgboost": 0.979
+        "xgboost": 0.952
       },
-      "advance_probability_avg_a": 0.959,
+      "advance_probability_avg_a": 0.947,
       "penalty_scenario_probability": null,
       "predicted_winner": "BRA",
       "actual_result": {
@@ -116,9 +116,9 @@
       "advance_probability": {
         "logreg": 0.996,
         "random_forest": 0.916,
-        "xgboost": 0.995
+        "xgboost": 0.963
       },
-      "advance_probability_avg_a": 0.969,
+      "advance_probability_avg_a": 0.955,
       "penalty_scenario_probability": null,
       "predicted_winner": "FRA",
       "actual_result": {
@@ -142,9 +142,9 @@
       "advance_probability": {
         "logreg": 0.674,
         "random_forest": 0.568,
-        "xgboost": 0.978
+        "xgboost": 0.893
       },
-      "advance_probability_avg_a": 0.74,
+      "advance_probability_avg_a": 0.715,
       "penalty_scenario_probability": 0.692,
       "predicted_winner": "CIV",
       "actual_result": {
@@ -168,11 +168,11 @@
       "advance_probability": {
         "logreg": 0.07,
         "random_forest": 0.624,
-        "xgboost": 0.793
+        "xgboost": 0.751
       },
-      "advance_probability_avg_a": 0.496,
+      "advance_probability_avg_a": 0.523,
       "penalty_scenario_probability": 0.413,
-      "predicted_winner": "ECU",
+      "predicted_winner": "MEX",
       "actual_result": {
         "score_90": {
           "a": 2,
@@ -181,7 +181,7 @@
         "went_to_penalties": false,
         "winner": "MEX"
       },
-      "hit": false
+      "hit": true
     },
     {
       "match_id": "M80",
@@ -194,9 +194,9 @@
       "advance_probability": {
         "logreg": 0.994,
         "random_forest": 0.915,
-        "xgboost": 0.973
+        "xgboost": 0.958
       },
-      "advance_probability_avg_a": 0.96,
+      "advance_probability_avg_a": 0.951,
       "penalty_scenario_probability": null,
       "predicted_winner": "ENG",
       "actual_result": {
@@ -220,9 +220,9 @@
       "advance_probability": {
         "logreg": 0.369,
         "random_forest": 0.865,
-        "xgboost": 0.973
+        "xgboost": 0.954
       },
-      "advance_probability_avg_a": 0.736,
+      "advance_probability_avg_a": 0.766,
       "penalty_scenario_probability": null,
       "predicted_winner": "USA",
       "actual_result": {
@@ -246,9 +246,9 @@
       "advance_probability": {
         "logreg": 0.986,
         "random_forest": 0.951,
-        "xgboost": 0.972
+        "xgboost": 0.953
       },
-      "advance_probability_avg_a": 0.97,
+      "advance_probability_avg_a": 0.961,
       "penalty_scenario_probability": null,
       "predicted_winner": "BEL",
       "actual_result": {
@@ -272,11 +272,11 @@
       "advance_probability": {
         "logreg": 0.314,
         "random_forest": 0.761,
-        "xgboost": 0.34
+        "xgboost": 0.77
       },
-      "advance_probability_avg_a": 0.472,
+      "advance_probability_avg_a": 0.645,
       "penalty_scenario_probability": null,
-      "predicted_winner": "CRO",
+      "predicted_winner": "POR",
       "actual_result": {
         "score_90": {
           "a": 2,
@@ -285,7 +285,7 @@
         "went_to_penalties": false,
         "winner": "POR"
       },
-      "hit": false
+      "hit": true
     },
     {
       "match_id": "M84",
@@ -298,9 +298,9 @@
       "advance_probability": {
         "logreg": 0.03,
         "random_forest": 0.761,
-        "xgboost": 0.866
+        "xgboost": 0.894
       },
-      "advance_probability_avg_a": 0.552,
+      "advance_probability_avg_a": 0.615,
       "penalty_scenario_probability": null,
       "predicted_winner": "ESP",
       "actual_result": {
@@ -324,9 +324,9 @@
       "advance_probability": {
         "logreg": 0.851,
         "random_forest": 0.803,
-        "xgboost": 0.98
+        "xgboost": 0.914
       },
-      "advance_probability_avg_a": 0.878,
+      "advance_probability_avg_a": 0.857,
       "penalty_scenario_probability": null,
       "predicted_winner": "SUI",
       "actual_result": {
@@ -350,9 +350,9 @@
       "advance_probability": {
         "logreg": 0.996,
         "random_forest": 0.94,
-        "xgboost": 0.995
+        "xgboost": 0.963
       },
-      "advance_probability_avg_a": 0.977,
+      "advance_probability_avg_a": 0.963,
       "penalty_scenario_probability": null,
       "predicted_winner": "ARG",
       "actual_result": {
@@ -376,9 +376,9 @@
       "advance_probability": {
         "logreg": 0.802,
         "random_forest": 0.782,
-        "xgboost": 0.972
+        "xgboost": 0.912
       },
-      "advance_probability_avg_a": 0.852,
+      "advance_probability_avg_a": 0.835,
       "penalty_scenario_probability": null,
       "predicted_winner": "COL",
       "actual_result": {
@@ -402,9 +402,9 @@
       "advance_probability": {
         "logreg": 0.043,
         "random_forest": 0.552,
-        "xgboost": 0.93
+        "xgboost": 0.905
       },
-      "advance_probability_avg_a": 0.508,
+      "advance_probability_avg_a": 0.546,
       "penalty_scenario_probability": null,
       "predicted_winner": "AUS",
       "actual_result": {
@@ -434,15 +434,22 @@
       "f1": 0.815
     },
     "xgboost": {
-      "accuracy": 0.625,
-      "precision": 0.667,
-      "recall": 0.909,
-      "f1": 0.769
+      "accuracy": 0.688,
+      "precision": 0.688,
+      "recall": 1.0,
+      "f1": 0.815
     },
     "score_model": {
       "MAE": 0.594,
       "RMSE": 0.848
     }
+  },
+  "best_classifier": "random_forest",
+  "best_classifier_metrics": {
+    "accuracy": 0.688,
+    "precision": 0.688,
+    "recall": 1.0,
+    "f1": 0.815
   },
   "top_features": {
     "logreg": [
@@ -515,39 +522,72 @@
     ],
     "xgboost": [
       [
-        "key_players_prev_wc_goals_diff",
-        0.1948
-      ],
-      [
         "ko_stage_historical_win_rate_b",
-        0.1727
+        0.1728
       ],
       [
-        "top_scorer_individual_rating_diff",
-        0.1041
+        "key_players_prev_wc_goals_diff",
+        0.1584
       ],
       [
         "ko_stage_historical_win_rate_a",
-        0.1016
-      ],
-      [
-        "goals_against_group_diff",
-        0.0773
-      ],
-      [
-        "goals_for_group_diff",
-        0.0608
+        0.1465
       ],
       [
         "fifa_ranking_pos_diff",
-        0.0567
+        0.1425
+      ],
+      [
+        "wc_best_stage_diff",
+        0.0987
       ],
       [
         "wc_titles_diff",
-        0.0477
+        0.0795
+      ],
+      [
+        "goals_for_group_diff",
+        0.0521
+      ],
+      [
+        "group_strength_score_diff",
+        0.0417
       ]
     ]
   },
+  "decision_support": {
+    "selected_model": "random_forest",
+    "selection_reason": "Mayor Accuracy durante la validación.",
+    "main_factors": [
+      {
+        "feature": "Goles históricos jugadores clave",
+        "importance": 15.24
+      },
+      {
+        "feature": "Historial KO Equipo B",
+        "importance": 12.15
+      },
+      {
+        "feature": "Diferencia Ranking FIFA",
+        "importance": 11.87
+      },
+      {
+        "feature": "Diferencia Puntos FIFA",
+        "importance": 9.99
+      },
+      {
+        "feature": "Historial KO Equipo A",
+        "importance": 5.85
+      }
+    ]
+  },
   "train_set_size": 36,
-  "uses_xgboost_native": true
+  "uses_xgboost_native": true,
+  "model_weights": {
+    "logreg": 0.267,
+    "random_forest": 0.367,
+    "xgboost": 0.367
+  },
+  "metrics_history_file": "outputs\\history\\metrics_history.csv",
+  "prediction_history_file": "outputs\\history\\predictions_history.csv"
 }

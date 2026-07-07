@@ -1,0 +1,9 @@
+match_id,stage,team_a,team_b,predicted_score_a,predicted_score_b,predicted_winner
+M89,R16,PAR,FRA,0,2,FRA
+M90,R16,CAN,MAR,0,0,MAR
+M91,R16,BRA,NOR,2,0,BRA
+M92,R16,MEX,ENG,1,2,ENG
+M93,R16,POR,ESP,1,1,POR
+M94,R16,USA,BEL,1,0,BEL
+M95,R16,ARG,EGY,2,0,ARG
+M96,R16,SUI,COL,1,1,SUI
